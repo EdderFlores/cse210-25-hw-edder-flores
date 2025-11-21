@@ -36,7 +36,7 @@ class Program
         }
         else
         {
-            Console.WriteLine($"Your letter grade is: {letter}, you failed. Try better next time!");
+            Console.WriteLine($"Your letter grade is: {letter}, you failed. Better luck next time!");
     }
     }
 }
